@@ -1,4 +1,4 @@
-package edu.sdsu.cs160l.algorithm;
+package edu.sdsu.cs160l;
 
 import edu.sdsu.cs160l.Student;
 import org.junit.jupiter.api.*;
