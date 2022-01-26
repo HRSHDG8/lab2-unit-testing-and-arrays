@@ -99,7 +99,6 @@ public class ArrayListTest {
         // Change Student information in the cloned list
         // Use JGrasp to display the content of existing Student list eLst and the 
         // cloned Student list clonedELst
-        // TODO:grab screenshots of debugging views of the two array lists as part of the lab submission
         clonedStudents.get(1).setName("Michael Jordan");
         System.out.println("Student List");
         students.forEach(e -> System.out.println(e.toString()));
