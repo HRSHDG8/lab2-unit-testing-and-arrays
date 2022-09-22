@@ -105,11 +105,6 @@ public class ArrayListTest {
         System.out.println("Cloned Student List");
         clonedStudents.forEach(e -> System.out.println(e.toString()));
 
-        // TODO: perform a deep copy of the eLst ArrayList by using the overridden Student clone method.
-        // After the deep copy implementation
-        // in the cloned Student list, then use the same printout statements above to 
-        // print out the original list and the cloned list
-
         clonedStudents = new ArrayList<>();
 
         // TODO: write your code here to clone individual elements in students and add it to cloned students
